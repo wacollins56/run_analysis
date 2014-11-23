@@ -1,4 +1,4 @@
-Course Project for the Getting and Cleaning Data module
+### Course Project for the Getting and Cleaning Data module
 
 This repository contains my work relatd to the course project.
 
